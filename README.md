@@ -7,6 +7,7 @@ El objetivo fundamental de esta práctica es desplegar un proyecto ya programado
 Se trata de una aplicación web para elaborar y consultar un repositorio de alimentos con datos acerda de sus propiedades dietéticas.
 
 El proyecto se desplegara en Master.
+
 Implicados en el proyecto: Joaquín, Angela, Eladio
 
 Joaquín : 
