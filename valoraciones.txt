@@ -6,12 +6,12 @@ Practica de un proyecto en grupo
 El objetivo fundamental de esta práctica es desplegar un proyecto ya programado, basado en el patrón de diseño modelo vista controlador(MVC).
 Se trata de una aplicación web para elaborar y consultar un repositorio de alimentos con datos acerda de sus propiedades dietéticas.
 
-Implicados en el proyecto: Joaquín, Angela, Eladio.
+Valoraciones
 
-
+Joaquín:
 Github facilita mucho la forma de trabajar tus proyectos de forma online.
-Además a la hora de llevar tus proyectos, es mas seguros antes de realizar alguna actualización del codigo ya sea por la mejora de la apliación o proyecto.
 
+Además a la hora de llevar tus proyectos, es mas seguros antes de realizar alguna actualización del codigo ya sea por la mejora de la apliación o proyecto.
 Cosas muy impotante que he visto.
   *Agiliza el trabajo.
   *facilita el trabajo en grupo
