@@ -6,7 +6,7 @@ Practica de un proyecto en grupo
 El objetivo fundamental de esta práctica es desplegar un proyecto ya programado, basado en el patrón de diseño modelo vista controlador(MVC).
 Se trata de una aplicación web para elaborar y consultar un repositorio de alimentos con datos acerda de sus propiedades dietéticas.
 
-
+El proyecto se desplegara en Master.
 Implicados en el proyecto: Joaquín, Angela, Eladio
 
 Joaquín : 
