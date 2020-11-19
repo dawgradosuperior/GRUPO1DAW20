@@ -23,5 +23,12 @@ Cosas muy impotante que he visto.
   *Clonación.
   *Copia de seguridad de las distintas versiones para recuperar o volver a un estado anterior.
   
+  Angela:
+  Giy y Github, para trabajar desde cualquier lugar, es rápido y cómodo. 
   
+  Innovador y una herramienta muy útil a la hora de comprobar que todo funcione correctamente, 
+  puede utilizarlo con distintas personas, en modo cooperativo para ayudarte en tus proyectos, 
+  donde cada persona puede realizar una parte de dicho proyecto.
+  por mencionar algo a tener en cuenta, se debe de ser metodico para no cometer errores,
+  aunque se puede volver a un estado anterior con los commit.
 
