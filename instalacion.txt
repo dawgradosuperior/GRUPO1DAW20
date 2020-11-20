@@ -1,0 +1,27 @@
+# GRUPO1DAW20
+
+Lo primero es abrir la ventana de comandos , ya sea en linux o windows lo que
+cada uno tengo.
+Mediante ssh nos conectamos a cdmon, debemos escribir los siguientes comandos:
+1º Opcion : ssh usuario@ipWeb
+2º Opción : ssh usuario@ssh.dominio.es.mialias.net
+
+A continuación nos piden la contraseña y una vez introducida estamos dentro.
+Con pwd nos dice que nos encontramos en /entrada y nosotros nos queremos mover
+a la carpeta web. Hacemos un cd .. y nos dice que nos encontramos en / .
+Luego hacemos un cd web y un ls para ver lo que hay en la carpeta web.
+Queremos crear una carpeta nueva y lo hacemos con el comando
+mkdir nombreCarperta , en nuestro caso sería mkdir ali12020,
+una vez creada nos metemos dentro con cd ali12020, y al hacer un ls comprobamos
+que la carpeta esta vacia. A continuación hacemos un git init porque tenemos que hacer
+el proceso de nuevo de despliegue, iniciamos git y ahora hacemos 
+git remote add conexion + la url repositorio de github.
+Lo que hacemos es añadir la conexión a la url de nuestro repositorio de github,
+una vez establecida la conexión puedo ver que tengo con git remote -v , que tengo
+establecidas la conexiones ya con los repositorios y para finalizar nos quedaría hacer
+un pull, ahora no queremos subir , sino descargar y traerme todo lo que tenemos en nuestro
+repositorio de github hacia cdmon , serían los siguientes comandos,
+git pull conexion master, da un fallo de licencia y en este caso lo sustituimos por lo siguiente:
+git -c http.sslVerify=false pull conexion master y ya funciona,
+al hacer el pull podemos comprobar que nos ha traido las cosas
+con un ls.
