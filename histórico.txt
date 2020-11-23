@@ -12,3 +12,4 @@ usando SSH y de nuevo los comandos Git anteriormente usados, esta vez para pasar
 en CDmon con la herramienta de acceso web de FTP de CDmon, introduciendo los datos de la base de datos y el usuario
 usado para acceder a ella.
 - Una vez subido el proyecto, todos revisamos que funcione correctamente.
+- URL en el hosting desplegado: http://www.angela.es.mialias.net/ali12020/web/index.php
