@@ -5,6 +5,7 @@ la que vamos a trabajar, y da acceso al resto de integrantes del grupo.
 - Ángela crea la base de datos que vamos a necesitar para que el proyecto funcione correctamente en su hosting de CDmon.
 - Cada uno sube su parte correspondiente del proyecto en GitHub desde su equipo usando Git con sus comandos 
 correspondientes (subiendo la última parte, se fusionan por error 2 ramas, aunque no parece provocar ningún problema).
+Las carpetas vacías no se suben, ya que GitHub trabaja con archivos y no las acepta.
 - Ángela realiza el despliegue del proyecto en su hosting de CDmon, en una nueva carpeta dentro de su carpeta web,
 usando SSH y de nuevo los comandos Git anteriormente usados, esta vez para pasar el proyecto de GitHub a CDmon.
 - Para tener una mayor seguridad, decidimos subir el archivo Config.php sin modificar a GitHub, y lo modificamos
