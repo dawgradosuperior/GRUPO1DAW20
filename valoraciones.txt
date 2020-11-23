@@ -8,14 +8,14 @@ Se trata de una aplicación web para elaborar y consultar un repositorio de alim
 
 Valoraciones
 
-Joaquín:
-Git y Github facilita mucho la forma de trabajar tus proyectos de forma online.
+ Joaquín:
+ Git y Github facilita mucho la forma de trabajar tus proyectos de forma online.
 
-Git es un sistema de control de versiones distribuido, gratis.
-Github es una plataforma web para alojar repositorios de código usando el sistema Git.
+ Git es un sistema de control de versiones distribuido, gratis.
+ Github es una plataforma web para alojar repositorios de código usando el sistema Git.
 
-Además a la hora de llevar tus proyectos, es mas seguros antes de realizar alguna actualización del codigo ya sea por la mejora de la apliación o proyecto.
-Cosas muy impotante que he visto.
+ Además a la hora de llevar tus proyectos, es mas seguros antes de realizar alguna actualización del codigo ya sea por la mejora de la apliación o proyecto.
+ Cosas muy impotante que he visto.
   *Agiliza el trabajo.
   *facilita el trabajo en grupo.
   *Distintas ramas para trabajar tu proyecto, teniendo varias versiones antes de validar tu actualización o mejora del codigo.
@@ -23,19 +23,19 @@ Cosas muy impotante que he visto.
   *Clonación.
   *Copia de seguridad de las distintas versiones para recuperar o volver a un estado anterior.
   
-  Angela:
-  Giy y Github, para trabajar desde cualquier lugar, es rápido y cómodo. 
+ Angela:
+ Giy y Github, para trabajar desde cualquier lugar, es rápido y cómodo. 
   
-  Innovador y una herramienta muy útil a la hora de comprobar que todo funcione correctamente, 
-  puede utilizarlo con distintas personas, en modo cooperativo para ayudarte en tus proyectos, 
-  donde cada persona puede realizar una parte de dicho proyecto.
-  por mencionar algo a tener en cuenta, se debe de ser metódico para no cometer errores,
-  aunque se puede volver a un estado anterior con los commit por si ocurriera algo inesperado.
+ Innovador y una herramienta muy útil a la hora de comprobar que todo funcione correctamente, 
+ puede utilizarlo con distintas personas, en modo cooperativo para ayudarte en tus proyectos, 
+ donde cada persona puede realizar una parte de dicho proyecto.
+ por mencionar algo a tener en cuenta, se debe de ser metódico para no cometer errores,
+ aunque se puede volver a un estado anterior con los commit por si ocurriera algo inesperado.
 
-Eladio:
-Son unas herramientas muy útiles tanto para llevar un control de los cambios realizados en un proyecto
-(o cualquier otra cosa) por si hay algún error con alguna subida, como para poder realizar proyectos grupales,
-en los que cada uno realiza su parte o incluso en los que todo se realiza en común.
+ Eladio:
+ Son unas herramientas muy útiles tanto para llevar un control de los cambios realizados en un proyecto
+ (o cualquier otra cosa) por si hay algún error con alguna subida, como para poder realizar proyectos grupales,
+ en los que cada uno realiza su parte o incluso en los que todo se realiza en común.
 
-Como punto añadido: GitHub tambien puede ser útil para usar los repositorios publicos de tu cuenta como forma
-de presentarte antes una empresa, para que así pueden revisar los proyectos que has realizado.
+ Como punto añadido: GitHub tambien puede ser útil para usar los repositorios publicos de tu cuenta como forma
+ de presentarte antes una empresa, para que así pueden revisar los proyectos que has realizado.
