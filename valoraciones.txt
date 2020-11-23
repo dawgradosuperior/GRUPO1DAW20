@@ -32,3 +32,10 @@ Cosas muy impotante que he visto.
   por mencionar algo a tener en cuenta, se debe de ser metódico para no cometer errores,
   aunque se puede volver a un estado anterior con los commit por si ocurriera algo inesperado.
 
+Eladio:
+Son unas herramientas muy útiles tanto para llevar un control de los cambios realizados en un proyecto
+(o cualquier otra cosa) por si hay algún error con alguna subida, como para poder realizar proyectos grupales,
+en los que cada uno realiza su parte o incluso en los que todo se realiza en común.
+
+Como punto añadido: GitHub tambien puede ser útil para usar los repositorios publicos de tu cuenta como forma
+de presentarte antes una empresa, para que así pueden revisar los proyectos que has realizado.
