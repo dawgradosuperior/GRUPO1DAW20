@@ -37,5 +37,5 @@ Valoraciones
  (o cualquier otra cosa) por si hay algún error con alguna subida, como para poder realizar proyectos grupales,
  en los que cada uno realiza su parte o incluso en los que todo se realiza en común.
 
- Como punto añadido: GitHub tambien puede ser útil para usar los repositorios publicos de tu cuenta como forma
+ Como punto añadido: GitHub también puede ser útil para usar los repositorios públicos de tu cuenta como forma
  de presentarte antes una empresa, para que así pueden revisar los proyectos que has realizado.
