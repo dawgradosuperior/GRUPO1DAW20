@@ -38,4 +38,4 @@ Valoraciones
  en los que cada uno realiza su parte o incluso en los que todo se realiza en común.
 
  Como punto añadido: GitHub también puede ser útil para usar los repositorios públicos de tu cuenta como forma
- de presentarte antes una empresa, para que así pueden revisar los proyectos que has realizado.
+ de presentarte ante una empresa, para que así pueden revisar los proyectos que has realizado.
